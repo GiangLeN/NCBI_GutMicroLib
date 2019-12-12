@@ -1,4 +1,7 @@
 #!/bin/bash
+## Made by Giang Le
+## Github https://github.com/GiangLeN
+## Version 0.0.0.0.0.1
 
 in=$1
 
